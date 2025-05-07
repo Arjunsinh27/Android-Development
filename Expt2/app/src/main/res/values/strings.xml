@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Home Page Using Grid Layout</string>
+    <string name="calculator">Calculator</string>
+    <string name="Notes">Notes</string>
+    <string name="Camera">Camera</string>
+    <string name="file_manager">File Manager</string>
+    <string name="calender">Calender</string>
+    <string name="maps">Maps</string>
+
+</resources>
